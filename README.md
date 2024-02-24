@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Correa;I'm+26+years+old;I´m+from+Brasil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Correa;I'm+26+years+old;I´m+from+Brasil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br/>
 
@@ -50,4 +50,4 @@
 
 ![Snake animation](https://github.com/lucascorreaa/lucascorreaa/blob/output/github-contribution-grid-snake.svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
