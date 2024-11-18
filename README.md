@@ -27,3 +27,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucascorreaa&show_icons=true&locale=en" alt="lucascorreaa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucascorreaa&" alt="lucascorreaa" /></p>
+
+
+<h1 align="center"></h1>
+
+###
+
+<img src="https://raw.githubusercontent.com/lucascorreaa/lucascorreaa/output/snake.svg" alt="Snake animation" />
+
+###
