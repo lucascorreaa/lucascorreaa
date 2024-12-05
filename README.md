@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucas, O tal do Suporte de Domingo</h1>
+<h1 align="center">Hi 👋, I'm Lucas, O tal do Professor Corrêa</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucascorreaa&label=Profile%20views&color=0e75b6&style=flat" alt="lucascorreaa" /> </p>
 
