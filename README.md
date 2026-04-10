@@ -27,7 +27,6 @@
 
 - [LinkedIn](https://www.linkedin.com/in/lucascorreaa/)
 - [Suporte de Domingo](https://suportededomingo.com.br/)
-- [Portfólio](https://professorcorrea.com.br/)
 - [Instagram - Professor Corrêa](https://www.instagram.com/professorcorrea)
 
 ---
