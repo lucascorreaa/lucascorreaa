@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/matrix-face.gif" alt="Rosto em relevo na chuva Matrix" width="100%">
+  <img src="./assets/matrix-face.gif" alt="Rosto revelado pela chuva Matrix" width="100%">
 </p>
 
 <p align="center">
