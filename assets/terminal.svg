@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="224" viewBox="0 0 840 224" role="img" aria-label="root@correa:~# whoami — lucas corrêa, lead software engineer, tech educator, mestrando em computação aplicada @ IPT">
+<defs>
+  <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" opacity=".025"/></pattern>
+  <radialGradient id="glow" cx="30%" cy="40%" r="80%"><stop offset="0" stop-color="#1b2a1f" stop-opacity=".55"/><stop offset="1" stop-color="#0a0d0b" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+  text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; white-space: pre; }
+  .p { fill: #3ddc84; font-weight: 600; }
+  .c { fill: #e6edf3; }
+  .o { fill: #9aa7b0; }
+  .name { fill: #e6edf3; font-size: 22px; font-weight: 700; letter-spacing: .5px; }
+  .title { fill: #6e7681; font-size: 12px; }
+  .ln { opacity: 0; animation: show .01s linear forwards; }
+  .cur { fill: #3ddc84; animation: blink 1s steps(1) infinite; }
+  .screen { animation: flicker 6s linear infinite; }
+  @keyframes show { to { opacity: 1; } }
+  @keyframes blink { 50% { opacity: 0; } }
+  @keyframes flicker { 0%, 96%, 100% { opacity: 1; } 97% { opacity: .86; } 98% { opacity: 1; } 99% { opacity: .93; } }
+</style>
+<rect width="840" height="224" rx="12" fill="#0a0d0b"/>
+<rect width="840" height="224" rx="12" fill="url(#glow)"/>
+<rect x=".5" y=".5" width="839" height="223" rx="11.5" fill="none" stroke="#30363d"/>
+<path d="M12 .5h816a11.5 11.5 0 0 1 11.5 11.5v24.5h-839V12A11.5 11.5 0 0 1 12 .5z" fill="#161b22"/>
+<line x1="0" y1="37" x2="840" y2="37" stroke="#30363d"/>
+<circle cx="24" cy="19" r="6" fill="#ff5f56"/><circle cx="44" cy="19" r="6" fill="#ffbd2e"/><circle cx="64" cy="19" r="6" fill="#27c93f"/>
+<text x="420.0" y="23" text-anchor="middle" class="title">root@correa: ~ — bash</text>
+<g class="screen">
+<g class="ln" style="animation-delay:0.60s"><text x="28" y="78" class="p">root@correa:~#</text>
+<clipPath id="c0"><rect x="167.5" y="60" height="24" width="0"><animate attributeName="width" begin="0.95s" dur="0.33s" values="0.0;9.3;18.6;27.9;37.2;46.5;55.8" keyTimes="0.0000;0.1667;0.3333;0.5000;0.6667;0.8333;1.0000" calcMode="discrete" fill="freeze"/></rect></clipPath><text x="167.5" y="78" class="c" clip-path="url(#c0)">whoami</text>
+</g>
+<g class="ln" style="animation-delay:1.63s"><text x="28" y="104" class="o name">lucas corrêa</text></g>
+<g class="ln" style="animation-delay:2.08s"><text x="28" y="138" class="p">root@correa:~#</text>
+<clipPath id="c2"><rect x="167.5" y="120" height="24" width="0"><animate attributeName="width" begin="2.43s" dur="0.66s" values="0.0;9.3;18.6;27.9;37.2;46.5;55.8;65.1;74.4;83.7;93.0;102.3;111.6" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" calcMode="discrete" fill="freeze"/></rect></clipPath><text x="167.5" y="138" class="c" clip-path="url(#c2)">cat role.txt</text>
+</g>
+<g class="ln" style="animation-delay:3.44s"><text x="28" y="164" class="o">lead software engineer · tech educator · mestrando em computação aplicada @ IPT</text></g>
+<g class="ln" style="animation-delay:3.89s"><text x="28" y="198" class="p">root@correa:~#</text>
+<rect x="167.5" y="184" width="9" height="17" class="cur"/>
+</g>
+</g>
+<rect y="37" width="840" height="187" fill="url(#scan)" rx="12"/>
+</svg>
