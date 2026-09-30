@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="176" viewBox="0 0 840 176" role="img" aria-label="root@correa:~# whoami: lucas corrêa, lead software engineer, tech educator, mestrando em computação aplicada @ IPT">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="124" viewBox="0 0 840 124" role="img" aria-label="root@correa:~# whoami: lucas corrêa">
 <style>
   text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; white-space: pre; fill: #c8c8c8; }
   .ln { opacity: 0; animation: show .01s linear forwards; }
@@ -6,16 +6,12 @@
   @keyframes show { to { opacity: 1; } }
   @keyframes blink { 50% { opacity: 0; } }
 </style>
-<rect width="840" height="176" fill="#000"/>
+<rect width="840" height="124" fill="#000"/>
 <g class="ln" style="animation-delay:0.60s"><text x="24" y="40">root@correa:~#</text>
 <clipPath id="c0"><rect x="163.5" y="22" height="24" width="0"><animate attributeName="width" begin="0.95s" dur="0.33s" values="0.0;9.3;18.6;27.9;37.2;46.5;55.8" keyTimes="0.0000;0.1667;0.3333;0.5000;0.6667;0.8333;1.0000" calcMode="discrete" fill="freeze"/></rect></clipPath><text x="163.5" y="40" clip-path="url(#c0)">whoami</text>
 </g>
 <g class="ln" style="animation-delay:1.63s"><text x="24" y="66">lucas corrêa</text></g>
 <g class="ln" style="animation-delay:2.08s"><text x="24" y="92">root@correa:~#</text>
-<clipPath id="c2"><rect x="163.5" y="74" height="24" width="0"><animate attributeName="width" begin="2.43s" dur="0.66s" values="0.0;9.3;18.6;27.9;37.2;46.5;55.8;65.1;74.4;83.7;93.0;102.3;111.6" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" calcMode="discrete" fill="freeze"/></rect></clipPath><text x="163.5" y="92" clip-path="url(#c2)">cat role.txt</text>
-</g>
-<g class="ln" style="animation-delay:3.44s"><text x="24" y="118">lead software engineer · tech educator · mestrando em computação aplicada @ IPT</text></g>
-<g class="ln" style="animation-delay:3.89s"><text x="24" y="144">root@correa:~#</text>
-<rect x="163.5" y="130" width="9" height="17" class="cur"/>
+<rect x="163.5" y="78" width="9" height="17" class="cur"/>
 </g>
 </svg>
