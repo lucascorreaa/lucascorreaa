@@ -1,34 +1,19 @@
-<h1 align="center">Developer Corrêa</h1>
-
 <p align="center">
-  Desenvolvedor Full Stack · Professor de TI · Especialista em Produto Digital
+  <img src="./assets/matrix-face.gif" alt="Rosto revelado pela chuva Matrix" width="100%">
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=00FF41&center=true&vCenter=true&width=440&lines=hello%2C+friend.;developer+corr%C3%AAa" alt="hello, friend.">
+</p>
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucascorreaa/"><code>linkedin</code></a>
+  &nbsp;·&nbsp;
+  <a href="https://suportededomingo.com.br/"><code>suporte de domingo</code></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/professorcorrea"><code>instagram · professor corrêa</code></a>
+</p>
 
----
-
-## Sobre
-
-- Atuação em desenvolvimento full stack com JavaScript e TypeScript
-- Professor de Tecnologia no SENAI e SENAC; criador do canal Professor Corrêa
-- Especialista em acessibilidade, UI/UX, clean code e liderança de produtos digitais
-- Pós-graduação em Engenharia de Software e Digital Product Leadership
-- Experiência em automação de processos e integração de sistemas utilizando Python
-
-## Projetos em destaque
-
-- [Suporte de Domingo](https://suportededomingo.com.br/) – Soluções digitais e agendamento personalizado
-- [Code Trouble](https://codetrouble.com.br) – Comunidade aberta para desenvolvedores e troca de conhecimento
-
-## Contato
-
-- [LinkedIn](https://www.linkedin.com/in/lucascorreaa/)
-- [Suporte de Domingo](https://suportededomingo.com.br/)
-- [Instagram - Professor Corrêa](https://www.instagram.com/professorcorrea)
-
----
-
-> Educar é tornar o saber algo com voz, sentido e sentimento.
+<p align="center">
+  <sub><i>Educar é tornar o saber algo com voz, sentido e sentimento.</i></sub>
+</p>
