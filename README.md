@@ -1,19 +1,27 @@
-<p align="center">
-  <img src="./assets/matrix-face.gif" alt="Rosto revelado pela chuva Matrix" width="100%">
-</p>
+<img src="./assets/terminal.svg" alt="root@correa:~# whoami: lucas corrêa, lead software engineer, tech educator, mestrando em computação aplicada @ IPT" width="100%">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=00FF41&center=true&vCenter=true&width=440&lines=hello%2C+friend.;developer+corr%C3%AAa" alt="hello, friend.">
-</p>
+```text
+root@correa:~# cat experiencia.log
+lead software engineer ........ suporte de domingo
+lead software engineer ........ punch control
+professor de tecnologia ....... senai · 4 anos
+professor de tecnologia ....... senac · 2 anos
+mestrado ...................... computação aplicada · ipt
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucascorreaa/"><code>linkedin</code></a>
-  &nbsp;·&nbsp;
-  <a href="https://suportededomingo.com.br/"><code>suporte de domingo</code></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/professorcorrea"><code>instagram · professor corrêa</code></a>
-</p>
+root@correa:~# ./ensinar --stats
+alunos ........................ +1000
+instituições .................. senai · senac
+conteúdo ...................... @professorcorrea
 
-<p align="center">
-  <sub><i>Educar é tornar o saber algo com voz, sentido e sentimento.</i></sub>
-</p>
+root@correa:~# ls ~/projetos
+suporte-de-domingo/   code-trouble/   punch-control/
+
+root@correa:~# cat stack.txt
+javascript  typescript  python  ui/ux  acessibilidade  clean code
+
+root@correa:~# ./contato
+```
+
+[linkedin](https://www.linkedin.com/in/lucascorreaa/) · [suporte de domingo](https://suportededomingo.com.br/) · [instagram](https://www.instagram.com/professorcorrea)
+
+<sub>educar é tornar o saber algo com voz, sentido e sentimento.</sub>
