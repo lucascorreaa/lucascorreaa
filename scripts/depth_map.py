@@ -48,8 +48,12 @@ fz = np.array(Image.fromarray(face_z.astype(np.float32)).resize((W, H), Image.BI
 fm = np.array(Image.fromarray((face_mask * 255).astype(np.uint8)).resize((W, H), Image.BILINEAR)) / 255.0
 fm = gaussian_filter(fm, 25)
 fz = fz - fz[fm > 0.5].min()
-depth = depth + fm * (fz + 40) + hair * gaussian_filter(hair, 40) * 30
-depth = gaussian_filter(depth, 6) * person
+depth = depth + fm * (fz + 40) + gaussian_filter(hair * gaussian_filter(hair, 40), 18) * 30
+# micro-relevo: regiões escuras (olhos, bigode, sobrancelhas) afundam
+luma_ = np.array(img.convert("L"), dtype=np.float32) / 255.0
+micro = gaussian_filter(luma_, 3) - gaussian_filter(luma_, 24)
+depth = depth + 70 * micro * np.clip(fm + hair, 0, 1)
+depth = np.clip(gaussian_filter(depth, 2.5), 0, None) * person
 depth /= depth.max()
 
 luma = np.array(img.convert("L"), dtype=np.float32) / 255.0
